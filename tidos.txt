@@ -1,0 +1,6 @@
+HELLO WORLD
+
+I'm very cool because I know how to use nano ;)
+Vim bad, nano good :O
+
+Pizza is good, but pancakes are worse?
